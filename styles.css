@@ -1,2 +1,26 @@
 
 /* Your CSS Code here. */
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: #333;
+}
+#skills, #projects {
+    margin-top: 20px;
+}
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+li {
+    margin-bottom: 10px;
+}
+a {
+    color: #0077B5;
+    text-decoration: none;
+}
+img{
+	height:200px;
+	width:200px;
+}
